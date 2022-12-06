@@ -1,9 +1,9 @@
-.Accio{
+.accio{
     height:150px;
     width:150px;
     background-color: black;
 }
-.hello-accio{
+.hello-accio p{
     padding:10px;
     margin-left: 32px;
     color:white;
